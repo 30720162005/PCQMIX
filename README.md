@@ -44,4 +44,6 @@ launch eval.bat
 
 At runtime, place logs and model in the PCQMIX folder
 
-There are five algorithms, including IQL, VDN, QMIX, PCVDN and PCQMIX. Please select the algorithm name in train. py.
+There are five algorithms, including IQL, VDN, QMIX, PCVDN and PCQMIX
+
+Please select the algorithm name in train. py
