@@ -39,3 +39,9 @@ python train.py --scenario [scenario_name] --load-episode-saved [episode number]
 or
 
 launch eval.bat
+
+# Please note:
+
+At runtime, place logs and model in the PCQMIX folder
+
+There are five algorithms, including IQL, VDN, QMIX, PCVDN and PCQMIX. Please select the algorithm name in train. py.
